@@ -2,6 +2,14 @@
 
 > [`prettier`](https://github.com/prettier/prettier) :heart: [`eslint`](https://github.com/eslint/eslint)
 
+## Projects
+
+- [`@prettier/plugin-eslint`](https://github.com/prettier/plugin-eslint)
+- [`eslint-config-prettier`](https://github.com/prettier/eslint-config-prettier)
+- [`eslint-plugin-prettier`](https://github.com/prettier/eslint-plugin-prettier)
+- [`prettier-eslint`](https://github.com/prettier/prettier-eslint)
+- [`prettier-eslint-cli`](https://github.com/prettier/prettier-eslint-cli)
+
 ## Sponsors
 
 | @prettier/plugin-eslint                                                                                                                                                        | eslint-config-prettier                                                                                                                                                       | eslint-plugin-prettier                                                                                                                                     | prettier-eslint                                                                                                                                          | prettier-eslint-cli                                                                                                                                                 |
